@@ -61,7 +61,7 @@ typedef union rgba_t {
     uint32_t v;
 } rgba_t;
 
-#define N 20
+#define N 100
 
 typedef struct area_stack_t {
     int pos;
